@@ -1,1 +1,1 @@
-Learn CNN through CS231n
+Enhancer use CNN
